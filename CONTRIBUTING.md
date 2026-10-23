@@ -60,4 +60,3 @@ Be prepared to revise an approved contribution after review. Contributions must 
 ## Project-specific guidance
 
 Preserve existing integration behavior and test compatibility with the supported environment. Distinguish simulated protocol checks from testing against actual hardware.
-
